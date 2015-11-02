@@ -26,6 +26,24 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+	<key>UIApplicationShortcutItems</key>
+	<array>
+		<dict>
+			<key>UIApplicationShortcutItemIconType</key>
+			<string>UIApplicationShortcutIconTypeAdd</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>New Item</string>
+			<key>UIApplicationShortcutItemSubtitle</key>
+			<string>static</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>ITR.ITR3DTouch.new_item.static</string>
+			<key>UIApplicationShortcutItemUserInfo</key>
+			<dict>
+				<key>custom_key</key>
+				<string>custom_value</string>
+			</dict>
+		</dict>
+	</array>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
